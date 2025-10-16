@@ -1,24 +1,25 @@
-# Demo Task: Tic Tac Toe Web Application
+# Demo Task
 
-This project is a minimal, single-page Tic Tac Toe web application created using HTML, CSS, and JavaScript.
+This project demonstrates a minimal, single-page Tic Tac Toe web application using HTML, CSS, and JavaScript with a dynamic background.
 
 ## Setup
 
-To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
+To set up this project, simply clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/demo-task.git
-cd demo-task
+```
+git clone https://github.com/your-username/demo-task.git
 ```
 
 ## Usage
 
-Once the project is set up, you can start playing Tic Tac Toe by clicking on the squares in the grid to place your X or O. The application will automatically determine the winner or declare a tie.
+To use the Tic Tac Toe web application, open the `index.html` file in your preferred web browser.
 
 ## Code Explanation
 
-The HTML file includes the basic structure of the Tic Tac Toe grid, while the CSS file styles the grid and adds some basic animations. The JavaScript file controls the game logic, including checking for a winner and handling player turns.
+- The `index.html` file contains the structure of the web page, including the Tic Tac Toe game board.
+- The `style.css` file contains the styling for the game board and background. The background changes dynamically based on the current player's turn.
+- The `script.js` file contains the JavaScript code for the Tic Tac Toe game logic, including checking for a winning condition and updating the game board accordingly.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
